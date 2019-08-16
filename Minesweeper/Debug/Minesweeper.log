@@ -1,0 +1,17 @@
+﻿  Minesweeper.cpp
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(26): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'short *'
+  c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(26): note: utilisez '%hd' dans la chaîne de format
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(31): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'short *'
+  c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(31): note: utilisez '%hd' dans la chaîne de format
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(37): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'short *'
+  c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(37): note: utilisez '%hd' dans la chaîne de format
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(48): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'short *'
+  c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(48): note: utilisez '%hd' dans la chaîne de format
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(53): warning C4477: 'scanf_s' : la chaîne de format '%d' nécessite un argument de type 'int *', mais l'argument variadique 1 est de type 'short *'
+  c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(53): note: utilisez '%hd' dans la chaîne de format
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: voir la déclaration de 'scanf'
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(15): warning C4101: 'j' : variable locale non référencée
+c:\users\utilisateur\documents\visual studio 2017\projects\minesweeper\minesweeper\minesweeper.cpp(15): warning C4101: 'i' : variable locale non référencée
+  Minesweeper.vcxproj -> C:\Users\Utilisateur\documents\visual studio 2017\Projects\Minesweeper\Debug\Minesweeper.exe
+  Minesweeper.vcxproj -> C:\Users\Utilisateur\documents\visual studio 2017\Projects\Minesweeper\Debug\Minesweeper.pdb (Partial PDB)
